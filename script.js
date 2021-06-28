@@ -82,7 +82,7 @@ klase.studentai.push(studentuGeneratorius());
 
 console.log(klase);
 // console.log(klase.studentai[0][2]);
-console.log(klase.pazymiuVidurkis());
+console.log("Studentų pažymių vidurkis: " + klase.pazymiuVidurkis());
 
 
 
